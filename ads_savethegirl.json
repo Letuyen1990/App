@@ -1,10 +1,10 @@
 {
   "ads": {
-    "id_app": "",
-    "banner_setting": "",
-    "inter_setting": "",
-    "banner_main": "",
-    "inter_main": "",
+    "id_app": "com.guidefor.savethegirl.free",
+    "banner_setting": "ca-app-pub-3399710561924220/2597800105",
+    "inter_setting": "ca-app-pub-3399710561924220/2871124668",
+    "banner_main": "ca-app-pub-3399710561924220/1284718430",
+    "inter_main": "ca-app-pub-3399710561924220/9244961321",
 
     "banner_setting_new": "",
     "inter_setting_new": "",
@@ -23,7 +23,7 @@
     "is_exists": true,
     "is_show_more": true,
     "isLoading": false,
-    "isShowAds": false
+    "isShowAds": true
   },
   "apps": []
 }
