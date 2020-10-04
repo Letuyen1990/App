@@ -1,10 +1,10 @@
 {
   "ads": {
-    "id_app": "",
-    "banner_setting": "",
-    "inter_setting": "",
-    "banner_main": "",
-    "inter_main": "",
+    "id_app": "com.blackpink.videocall.free",
+    "banner_setting": "ca-app-pub-3399710561924220/5744700019",
+    "inter_setting": "ca-app-pub-3399710561924220/5027704089",
+    "banner_main": "ca-app-pub-3399710561924220/1805455006",
+    "inter_main": "ca-app-pub-3399710561924220/9492373335",
 
     "banner_setting_new": "",
     "inter_setting_new": "",
@@ -23,7 +23,7 @@
     "is_exists": true,
     "is_show_more": true,
     "isLoading": false,
-    "isShowAds": false
+    "isShowAds": true
   },
   "apps": []
 }
