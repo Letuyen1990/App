@@ -25,5 +25,15 @@
     "isLoading": false,
     "isShowAds": true
   },
-  "apps": []
+  "apps": [
+    {
+"id": "nastyacall.nastyacallvideo.new",
+"icon": "https://play-lh.googleusercontent.com/tQ1z7xyu2N4yKd3S9lLK1ujVI4-R2N5EV5cpT67dVziS_zF9UjDMZ29C5MNt9OjAo-Tn=s180-rw",
+"des": "Like Nastya call video and Chat (Prank) is a simple ",
+"name": "Nastya call you and Chat Simulator Prank",
+"s1": "https://play-lh.googleusercontent.com/dmxQKOsGdOKNMNaaug9UkvQOKlheC7pkSn0YzwDJuY4ZyvNwn4eVhdbytgjOnVSMdY8=w720-h310-rw",
+"s2": "https://play-lh.googleusercontent.com/FvlJIpdzdQGKKNN1yLUB1L9ojvADgNJfOLMOe7fnJFdm9E2C9gSNF7kVT-f4lBNPUq4=w720-h310-rw",
+"s3": "https://play-lh.googleusercontent.com/E_heta01UGsjIOz3dyRBnR-Jr0HFewJKxgKjZQ7c1h5JCJbMeC6IawHFPS_-KGcWXQs=w720-h310-rw"
+},
+  ]
 }
