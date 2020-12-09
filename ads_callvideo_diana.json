@@ -1,10 +1,10 @@
 {
   "ads": {
-    "id_app": "",
-    "banner_setting": "ca-app-pub-408494189976",
-    "inter_setting": "ca-app-pub-408494189976",
-    "banner_main": "",
-    "inter_main": "",
+    "id_app": "5fd0f739d1c04c042b151381",
+    "banner_setting": "ca-app-pub-3399710561924220/3291735953",
+    "inter_setting": "ca-app-pub-3399710561924220/7964304677",
+    "banner_main": "ca-app-pub-3399710561924220/4025059666",
+    "inter_main": "ca-app-pub-3399710561924220/1683156729",
 
     "banner_setting_new": "",
     "inter_setting_new": "",
@@ -25,5 +25,24 @@
     "isLoading": false,
     "isShowAds": false
   },
-  "apps": []
+  "apps": [
+    {
+      "id": "nastyacall.nastyacallvideo.new",
+      "icon": "https://play-lh.googleusercontent.com/tQ1z7xyu2N4yKd3S9lLK1ujVI4-R2N5EV5cpT67dVziS_zF9UjDMZ29C5MNt9OjAo-Tn=s180-rw",
+      "des": "Like Nastya call video and Chat (Prank) is a simple ",
+      "name": "Nastya call you and Chat Simulator Prank",
+      "s1": "https://play-lh.googleusercontent.com/dmxQKOsGdOKNMNaaug9UkvQOKlheC7pkSn0YzwDJuY4ZyvNwn4eVhdbytgjOnVSMdY8=w720-h310-rw",
+      "s2": "https://play-lh.googleusercontent.com/FvlJIpdzdQGKKNN1yLUB1L9ojvADgNJfOLMOe7fnJFdm9E2C9gSNF7kVT-f4lBNPUq4=w720-h310-rw",
+      "s3": "https://play-lh.googleusercontent.com/E_heta01UGsjIOz3dyRBnR-Jr0HFewJKxgKjZQ7c1h5JCJbMeC6IawHFPS_-KGcWXQs=w720-h310-rw"
+    },
+        {
+      "id": "vlad.niki.nikivideo.nikivideocall",
+      "icon": "https://play-lh.googleusercontent.com/SU97tA2rcZL5cjoDl_e4QdFdaTKygz9uW5anJwcOM_tU1RYLzPBnhqXubaJK-OTVLg0=s180-rw",
+      "des": "Today, Vlad and Nikita Fake Call is coming with many features",
+      "name": "Vlad and Nikki Call and chat in real simulator",
+      "s1": "https://play-lh.googleusercontent.com/WZEfl-qGYV_ayfK8V4s1lSwC1fDd5xNogVmPaGlM4I9R8OT8uOJUhULDZmQ55eCLHw=w1366-h625-rw",
+      "s2": "https://play-lh.googleusercontent.com/IsLZgt8VxUc2iOmGB8C0tXh6PWQEY5cOeV2dxqNsT7ZFbfCWF-dM8mGjQQpKe_OrSto=w1366-h625-rw",
+      "s3": "https://play-lh.googleusercontent.com/aZzZsBTCtrHnsnhMGNBnE9yiBwRJpwKFLYDNH7kFAe8PPdeXAGMW9ZSpVuxHQiCCOac=w720-h310-rw"
+    }
+  ]
 }
