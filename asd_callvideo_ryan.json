@@ -21,9 +21,36 @@
   "app_exists": {
     "id": "com.king.candycrushsaga",
     "is_exists": true,
-    "is_show_more": false,
+    "is_show_more": true,
     "isLoading": false,
     "isShowAds": false
   },
-  "apps": []
+  "apps": [
+     {
+      "id": "nastyacall.nastyacallvideo.new",
+      "icon": "https://play-lh.googleusercontent.com/tQ1z7xyu2N4yKd3S9lLK1ujVI4-R2N5EV5cpT67dVziS_zF9UjDMZ29C5MNt9OjAo-Tn=s180-rw",
+      "des": "Like Nastya call video and Chat (Prank) is a simple ",
+      "name": "Nastya call you and Chat Simulator Prank",
+      "s1": "https://play-lh.googleusercontent.com/dmxQKOsGdOKNMNaaug9UkvQOKlheC7pkSn0YzwDJuY4ZyvNwn4eVhdbytgjOnVSMdY8=w720-h310-rw",
+      "s2": "https://play-lh.googleusercontent.com/FvlJIpdzdQGKKNN1yLUB1L9ojvADgNJfOLMOe7fnJFdm9E2C9gSNF7kVT-f4lBNPUq4=w720-h310-rw",
+      "s3": "https://play-lh.googleusercontent.com/E_heta01UGsjIOz3dyRBnR-Jr0HFewJKxgKjZQ7c1h5JCJbMeC6IawHFPS_-KGcWXQs=w720-h310-rw"
+    },
+      {
+      "id": "dianacall.dianacallvideo.new",
+      "icon": "https://play-lh.googleusercontent.com/86-w1vgEme95-va6ATaFmAhsCBZrzMwr7gs7J4sfo1zb9g-2uSoWCnTVpTX2amrRhR35=s180-rw",
+      "des": "Fake call from diana and roma is the easiest way to prank your friends or family and have a fun game with them! ",
+      "name": "Funny Diana Fake call video stimulation",
+      "s1": "https://play-lh.googleusercontent.com/L5qpPaFTKV1SrOYeHgvI7XzOwYY8w_Cm-i0GywIpJjwPcP1pHEFTkhwn2JfiqU8jnd3v=w1366-h625-rw",
+      "s2": "https://play-lh.googleusercontent.com/ld97ioffPzdD0IN7lQlv8jaTv6oT7YEhpfQb-Z2ahvftiR4PPETBnmWEy-6QfOhz7LE=w1366-h625-rw",
+      "s3": "https://play-lh.googleusercontent.com/YU58fMYA_k7qCDEPAD65i6nWzcd-qRiE5s4b85bGp3T22DY-_v3HI5C6iP8An4xcHqs=w1366-h625-rw"
+    },    {
+      "id": "vlad.niki.nikivideo.nikivideocall",
+      "icon": "https://play-lh.googleusercontent.com/SU97tA2rcZL5cjoDl_e4QdFdaTKygz9uW5anJwcOM_tU1RYLzPBnhqXubaJK-OTVLg0=s180-rw",
+      "des": "Today, Vlad and Nikita Fake Call is coming with many features",
+      "name": "Vlad and Nikki Call and chat in real simulator",
+      "s1": "https://play-lh.googleusercontent.com/WZEfl-qGYV_ayfK8V4s1lSwC1fDd5xNogVmPaGlM4I9R8OT8uOJUhULDZmQ55eCLHw=w1366-h625-rw",
+      "s2": "https://play-lh.googleusercontent.com/IsLZgt8VxUc2iOmGB8C0tXh6PWQEY5cOeV2dxqNsT7ZFbfCWF-dM8mGjQQpKe_OrSto=w1366-h625-rw",
+      "s3": "https://play-lh.googleusercontent.com/aZzZsBTCtrHnsnhMGNBnE9yiBwRJpwKFLYDNH7kFAe8PPdeXAGMW9ZSpVuxHQiCCOac=w720-h310-rw"
+    }
+  ]
 }
