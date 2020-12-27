@@ -19,7 +19,7 @@
   "showMoreApp": false,
   "idNew": "",
   "app_exists": {
-    "id": "com.guidefor.fallguys.free.new",
+    "id": "com.new.guidefor.fallguys",
     "is_exists": false,
     "is_show_more": true,
      "isLoading": false,
