@@ -16,8 +16,8 @@
     "fb_inter": ""
   },
   "app_exists": {
-    "id": "com.new.guidefor.fallguys",
-    "is_exists": false,
+    "id": "com.king.candycrushsaga",
+    "is_exists": true,
     "is_show_more": true,
     "isLoading": false,
     "isShowAds": false,
