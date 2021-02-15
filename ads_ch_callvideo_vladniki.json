@@ -10,10 +10,13 @@
     "inter_setting_new": "",
     "banner_main_new": "",
     "inter_main_new": "",
-    "onlyAdmod": true,
-    "onlyFB": false,
-    "fb_banner": "",
-    "fb_inter": ""
+    "onlyAdmod": false,
+    "onlyFB": true,
+    "fb_banner": "752954955337482_752955232004121",
+    "fb_inter": "752954955337482_752955462004098",
+    "fb_banner_main": "752954955337482_752955642004080",
+    "fb_inter_main": "752954955337482_752955858670725",
+    "fb_native_banner": ""
   },
   "app_exists": {
     "id": "com.king.candycrushsaga",
