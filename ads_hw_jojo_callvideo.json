@@ -1,10 +1,10 @@
 {
   "ads": {
     "id_app": "",
-    "banner_setting": "testw6vs28auh3",
-    "inter_setting": "teste9ih9j0rc3",
-    "banner_main": "testw6vs28auh3",
-    "inter_main": "teste9ih9j0rc3",
+    "banner_setting": "h9y8x8vsqe",
+    "inter_setting": "d5zhmrly81",
+    "banner_main": "o74xz4315s",
+    "inter_main": "p7vcufneyi",
 
     "banner_setting_new": "",
     "inter_setting_new": "",
@@ -22,7 +22,7 @@
     "id": "com.king.candycrushsaga",
     "is_exists": true,
     "is_show_more": false,
-    "isLoading": false,
+    "isLoading": true,
     "isShowAds": false
   },
   "apps": []
